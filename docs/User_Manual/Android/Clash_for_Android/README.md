@@ -20,3 +20,5 @@
 
 - 1.打开软件
 
+<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cf6c1a0a-7e4e-4f73-a40e-118142cceaf1" />
+
